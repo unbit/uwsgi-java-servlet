@@ -5,7 +5,7 @@ import java.io.*;
 
 /*
 
-This a prototype of servlet container.
+This is a prototype of servlet container.
 This must be ported to jni
 
 */
